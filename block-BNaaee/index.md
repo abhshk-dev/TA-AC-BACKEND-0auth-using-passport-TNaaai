@@ -1,6 +1,6 @@
 writeCode
 
-Q1. Create an express application using generator and implement github and google login using passport.
+Q1.  Create an express application using generator and implement github and google login using passport.
 
 A single user when logs from github and google using same email, no two seperate collection should be created. Same user document should be able to accomodate both profile information.
 
