@@ -2,7 +2,7 @@ writeCode
 
 Implement `google` and `github` authentication in the blog application created at
 
-- Assignment level 2 in `session based authentication` chapter.
+- Assignment  level 2 in `session based authentication` chapter.
 
 - implement authorization where
 
